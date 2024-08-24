@@ -1,0 +1,5 @@
+﻿  员工分组.cpp
+D:\Users\10920\Desktop\Cpp\员工分组\员工分组.cpp(69,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\10920\Desktop\Cpp\员工分组\员工分组.cpp(80,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\10920\Desktop\Cpp\员工分组\员工分组.cpp(91,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  员工分组.vcxproj -> D:\Users\10920\Desktop\Cpp\员工分组\x64\Debug\员工分组.exe
